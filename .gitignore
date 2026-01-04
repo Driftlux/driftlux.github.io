@@ -6,3 +6,5 @@ exampleSite/resources/
 *.lock
 public/
 resources/
+hugo_extended/
+hugo_extended.zip
